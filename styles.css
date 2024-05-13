@@ -1,0 +1,44 @@
+body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXz0uSxGI8O43OXLv2-2L40YOPpqOA3b_c3DJjgdRlg&s');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button{
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+h2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bolder;
+}
+h2:hover{
+  color: white;
+}
+#maincontainer{
+  border: 3px solid black;
+}
+ul{
+  list-style-type:none;
+}
+button:hover{
+  box-shadow: 1px 1px 15px lightcoral;
+}
+input{
+  font-family:initial;
+  border: 2px solid white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+input:hover{
+  border: 2px solid gray;
+  
+}
+span{
+  font-weight:bold;
+  color: black;
+  margin: 0px 10px;
+}
+hr{
+  background-color: black;
+}
